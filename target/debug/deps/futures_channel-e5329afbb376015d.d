@@ -1,0 +1,11 @@
+/home/arekkusu/Desktop/Rustfuzz/target/debug/deps/futures_channel-e5329afbb376015d.rmeta: /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lib.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lock.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/mod.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/queue.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/oneshot.rs
+
+/home/arekkusu/Desktop/Rustfuzz/target/debug/deps/libfutures_channel-e5329afbb376015d.rlib: /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lib.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lock.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/mod.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/queue.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/oneshot.rs
+
+/home/arekkusu/Desktop/Rustfuzz/target/debug/deps/futures_channel-e5329afbb376015d.d: /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lib.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lock.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/mod.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/queue.rs /home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/oneshot.rs
+
+/home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lib.rs:
+/home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/lock.rs:
+/home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/mod.rs:
+/home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/mpsc/queue.rs:
+/home/arekkusu/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-channel-0.3.8/src/oneshot.rs:
